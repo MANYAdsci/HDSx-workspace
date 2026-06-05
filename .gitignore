@@ -1,0 +1,12 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto
+/.quarto/
+
+# OS junk
+.DS_Store
+Thumbs.db
