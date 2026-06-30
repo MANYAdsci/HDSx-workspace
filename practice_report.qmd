@@ -1,6 +1,6 @@
 ---
 title: "My First Report"
-author: "author"
+author: "your name"
 format: 
   html:
     embed-resources: true
