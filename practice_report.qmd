@@ -1,6 +1,6 @@
 ---
 title: "My First Report"
-author: "Manya Jain"
+author: "author"
 format: 
   html:
     embed-resources: true
